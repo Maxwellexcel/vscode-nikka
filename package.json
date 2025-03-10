@@ -39,7 +39,7 @@
 	"author": "H4KI-XER",
 	"dependencies": {
 		"@ffmpeg-installer/ffmpeg": "^1.1.0",
-		"axios": "^1.7.9",
+		"axios": "^1.8.2",
 		"baileys": "github:hakisolos/nikka-baileys",
 		"dotenv": "^16.4.7",
 		"fluent-ffmpeg": "^2.1.3",
